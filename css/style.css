@@ -1,11 +1,10 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="css/reset.css">
+</head>
 
 *, *:before, *:after {
   box-sizing: border-box;
 }
-
-<head>
-  <link rel="stylesheet" type="text/css" href="css/reset.css">
-</head>
 
 .box1 {
   width: 400px;
@@ -24,10 +23,9 @@ body {
 
 nav {
   background-color: #000000;
-  margin: 0 auto;
   padding: 10px 0 15px 15px;
   position: fixed;
-  width: 450px;
+  width: 435px;
 }
 
 .restaurant-list {
@@ -59,6 +57,6 @@ h3 {
   padding-bottom: 20px;
 }
 
-.location div:hover {
+.location:hover {
   background-color: #b3b3b3;
 }
