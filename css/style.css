@@ -57,18 +57,17 @@ h3 {
   width: 100%;
   text-align: left;
   background-color: #dfdfe1;
+  border-bottom: 1px solid #3b3b3b;
 }
 
 .content {
   display: inline-block;
   text-align: left;
   width: 80%;
-  background-color: #dfdfe1;
 }
 .arrow {
   display: inline-block;
-  margin-left: 5%;
-  background-color: #dfdfe1;
+  margin-left: 8%;
 }
 
 .location:hover {
