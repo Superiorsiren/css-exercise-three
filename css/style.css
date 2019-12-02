@@ -56,6 +56,7 @@ h3 {
 .location {
   width: 100%;
   text-align: left;
+  background-color: #dfdfe1;
 }
 
 .content {
@@ -66,7 +67,7 @@ h3 {
 }
 .arrow {
   display: inline-block;
-  margin-left: 10% #dfdfe1;
+  margin-left: 5%;
   background-color: #dfdfe1;
 }
 
