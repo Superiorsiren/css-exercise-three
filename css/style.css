@@ -53,9 +53,21 @@ h3 {
   padding-bottom: 20px;
 }
 
-.restaurant-list div {
+.location {
+  width: 100%;
+  text-align: left;
+}
+
+.content {
   display: inline-block;
   text-align: left;
+  width: 80%;
+  background-color: #dfdfe1;
+}
+.arrow {
+  display: inline-block;
+  margin-left: 10% #dfdfe1;
+  background-color: #dfdfe1;
 }
 
 .location:hover {
